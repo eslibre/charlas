@@ -1,6 +1,14 @@
-# Título de la charla
+# Título de la propuesta
 
 Pequeña introducción y motivación de la misma.
+
+## Formato de la propuesta
+
+Indicar uno de estos:
+
+* Taller (110 minutos)
+* Charla (50 minutos)
+* Charla relámpago (20 minutos)
 
 ## Descripción
 

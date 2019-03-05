@@ -1,4 +1,4 @@
-# Propuestad de charlas
+# Propuestas de charlas
 
 Hay tres tipos de charlas
 
@@ -10,7 +10,7 @@ Elige tu formato antes de presentarla.
 
 Por favor, sigue la
 [plantilla](plantilla.md) y envía tu charla mediante un PR en este
-repo.
+repo con un fichero donde se incluya la charla.
 
 ## Charlas aceptadas
 

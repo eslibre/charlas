@@ -18,10 +18,10 @@ de los distintos modelos de Oficina de Software Libre.
 Profesores de universidad de diferentes universidades públicas, entre
 ellos
 
-* Juan Julián Merelo Guervós
-* Manuel Palomo Duarte
-* Patxi Gortázar
-* Jesús González Barahona
+* Juan Julián Merelo Guervós (UGR)
+* Manuel Palomo Duarte (UCA)
+* Patxi Gortázar (URJC)
+* Jesús González Barahona (URJC)
 
 ## Público objetivo
 

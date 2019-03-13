@@ -24,6 +24,6 @@ Accenture Spain Technology Center (Málaga)
 
 15+ años desarrollando, diseñando e involucrado en arquitectura en diferentes lenguajes (principalmente en Java). DevOps practicante, amante de las soluciones en Cloud y evangelista de la aplicación de la Seguridad de Aplicaciones en el SDLC (Ciclo de Desarrollo del Software).
 
-Charlas anteriores/próximas:
+Charlas anteriores:
 * [OWASP Top Ten 2017 (Meetup de MálagaJUG y BoquerónSec)](https://www.opensouthcode.org/conferences/opensouthcode2018/program/proposals/164).
 

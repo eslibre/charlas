@@ -7,4 +7,5 @@ Una devroom estará centrada en una comunidad, y tendrá un espacio propio para 
 **Añade un enlace al fichero en el que hayas enviado tu devroom aquí, y
 aparecerá cuando se acepte**
 
+* [Privacidad, Descentralización y Sobrenanía de la Información](privacidad.md).
 * [Devroom](plantilla.md).

@@ -8,4 +8,5 @@ Una devroom estará centrada en una comunidad, y tendrá un espacio propio para 
 aparecerá cuando se acepte**
 
 * [Privacidad, Descentralización y Sobrenanía de la Información](privacidad.md).
+* [FLOSS en la universidad](universidad.md).
 * [Devroom](plantilla.md).

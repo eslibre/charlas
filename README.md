@@ -4,3 +4,8 @@ La llamada para trabajos está abierta a todo el mundo, y se hará mediante un p
 
 Puedes solicitar una charla (en diferentes formatos) o una devroom, si eres de alguna comunidad.
 
+En esta página se irán reflejando las charlas y devrooms que ya aceptadas:
+
+* [Charlas aceptadas](propuestas/README.md)
+* [Devrooms aceptadas](devrooms/README.md)
+

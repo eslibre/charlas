@@ -9,5 +9,5 @@ aparecerá cuando se acepte**
 
 * [Privacidad, Descentralización y Sobrenanía de la Información](privacidad.md).
 * [FLOSS en la universidad](universidad.md).
-* [Tu propuesta de devroom](plantilla.md).
+* [«Tu propuesta de devroom»](plantilla.md).
 

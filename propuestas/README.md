@@ -18,3 +18,4 @@ repo con un fichero donde se incluya la charla.
 aparecerá cuando se acepte**
 
 * [Título de la charla](plantilla.md), por *autor/a/es*.
+* [OWASP Top 10 (2017)](owasp-top-10_2017.md), por ***ÁNGEL GÓMEZ ROMERO** - Accenture Spain Technology Center (Málaga)*.

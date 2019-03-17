@@ -19,6 +19,7 @@ aparecerá cuando se acepte**
 
 * [Herramientas Linux para mejorar tu productividad o vacilar un poco](herramientas-linux.md), por ***ISRAEL BLANCAS** - Internal Tools Engineer en Real-Time Innovations*.
 * [OWASP Top 10 (2017)](owasp-top-10_2017.md), por ***ÁNGEL GÓMEZ ROMERO** - Accenture Spain Technology Center (Málaga)*.
+* [Gestor de Escritorios Virtuales Ravada](ravada.md), por ***Francesc Guasch** - Universitat Politècnica de Catalunya*.
 
 * [«Tu charla»](plantilla.md), por *autor/a/es*.
 

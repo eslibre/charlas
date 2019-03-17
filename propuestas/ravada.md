@@ -20,7 +20,7 @@ infraestructuras TIC y administradores de sistemas.
     profundizar en los detalles internos de funcionamiento.
 
 La aplicación ha sido desarrollada en código abierto por un proyecto esponsorizado
-por la UPC. Se comentarán los aspectos organizativos
+por la UPC. Se comentarán brevemente los aspectos organizativos
 y las herramientas que se han usado para gestionar proyectos abiertos.
 
 ## Ponente

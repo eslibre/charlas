@@ -21,6 +21,8 @@ El grupo que impulsa está devroom está compuesto por:
 Relacionados con los promotores se encuentran comunidad como la
 de Machine Learning Spain Meetup.
 
+La coordinación de la devroom se realiza desde: https://github.com/acs/bigdata_ml_devroom
+
 ## Público objetivo
 
 El público objetivo son perfiles técnicos que quieran recibir una
@@ -44,3 +46,5 @@ El formato de la devroom incluirá:
 
 La llamada a la participación se hará utilizando las redes sociales, redes
 específicas como Meetup, listas de distribución y otras vías.
+
+La coordinación de los contenidos se realiza en: https://github.com/acs/bigdata_ml_devroom

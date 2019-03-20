@@ -10,5 +10,6 @@ aparecerá cuando se acepte**
 * [Privacidad, Descentralización y Sobrenanía de la Información](privacidad.md).
 * [FLOSS en la universidad](universidad.md).
 * [Big Data y Machine Learning](bigdata_ml.md).
+* [Privacidad, descentralización y soberanía digital](privacidad.md).
 * [«Tu propuesta de devroom»](plantilla.md).
 

@@ -1,27 +1,39 @@
-# Nombre de la devroom
+# Perl*
 
-Pequeña introducción y motivación de la misma.
+¿Conoces Perl, Perl5 o Perl6? 
+
+¿Sí? Entonces ven y muestrános tus súper proyectos sean cuales sean y comparte tu experiencia con nosotros.
+
+¿No? No alarmarse! También habrá un tutorial básico sobre Perl6 que te enseñará por qué deberías empezar a usarlo.
+
+¿Alguna otra idea o taller sobre Perl*? Prepáratelo y estaremos encantados de escucharte!
 
 ## Comunidad o grupo que lo propone
 
-Descripción del grupo que lo ha propuesto, con enlace a su web y otras actividades organizadas. Identificar también a las personas que van a estar encargadas de la misma.
+El grupo que impulsa esta devroom está compuesto por:
 
-La temática tiene que estar en todo caso centrada en el software, cultura y hardware libre y datos abiertos.
+* Juan Julián Merelo Guervós: Perl monger monger.
+* Antonio Gámiz Delgado: Estudiante de la UGR y Perl monger.
 
 ## Público objetivo
 
-¿A quién va dirigida? 
+A todo el mundo.
 
 ## Tiempo
 
-Decir si se va a hacer por un día o por medio día.
+En un principio será medio día, si el número de charlas propuestas lo require se podría ampliar a un día.
 
 ## Formato
 
-Formato de la devroom y cómo se va a hacer la llamada a la participación y de ponencias. El formato se deja totalmente abierto a los que la propongan, y puede incluir (pero no sólo)
+Se aceptan cualquier tipo de propuesta, por ejemplo:
 
 * Talleres
 * Charlas relámpago
 * Charlas plenarias
 * Mesas redondas
 * Un hackatón que abarque todo el día
+
+Si tienes otra día coméntala y estudiamos su viabilidad :).
+
+Las charlas se intentarán ordenar por "complejidad", empezando por los tutoriales (Antonio Gámiz hará un tutorial sobre Perl6 al principio).
+

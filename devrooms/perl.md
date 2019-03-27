@@ -10,7 +10,7 @@
 
 ## Comunidad o grupo que lo propone
 
-El grupo que impulsa esta devroom es [Granada Perl Mongers](granada.pm) y los asistentes serán:
+El grupo que impulsa esta devroom es [Granada Perl Mongers](http://granada.pm) y los asistentes serán:
 
 * Juan Julián Merelo Guervós: Perl monger monger.
 * Antonio Gámiz Delgado: Estudiante de la UGR y Perl monger.

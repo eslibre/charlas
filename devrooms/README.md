@@ -11,5 +11,6 @@ aparecerá cuando se acepte**
 * [FLOSS en la universidad](universidad.md).
 * [Big Data y Machine Learning](bigdata_ml.md).
 * [Privacidad, descentralización y soberanía digital](privacidad.md).
+* [Perl*](perl.md)
 * [«Tu propuesta de devroom»](plantilla.md).
 

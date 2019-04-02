@@ -7,10 +7,11 @@ Una devroom estará centrada en una comunidad, y tendrá un espacio propio para 
 **Añade un enlace al fichero en el que hayas enviado tu devroom aquí, y
 aparecerá cuando se acepte**
 
-* [Privacidad, Descentralización y Sobrenanía de la Información](privacidad.md).
-* [FLOSS en la universidad](universidad.md).
-* [Big Data y Machine Learning](bigdata_ml.md).
-* [Privacidad, descentralización y soberanía digital](privacidad.md).
-* [Perl*](perl.md)
-* [«Tu propuesta de devroom»](plantilla.md).
+* [FLOSS en la universidad](universidad.md)
+* [Privacidad, Descentralización y Sobrenanía de la Información](privacidad.md)
+* [Ciberseguridad y hacking](seguridad.md)
+* [Big Data y Machine Learning](bigdata_ml.md)
+* [Privacidad, descentralización y soberanía digital](privacidad.md)
+* [Perl](perl.md)
 
+* [«Tu propuesta de devroom»](plantilla.md).

@@ -13,5 +13,6 @@ aparecerá cuando se acepte**
 * [Big Data y Machine Learning](bigdata_ml.md)
 * [Privacidad, descentralización y soberanía digital](privacidad.md)
 * [Perl](perl.md)
+* [Informática y matemáticas](info-mat.md)
 
 * [«Tu propuesta de devroom»](plantilla.md).

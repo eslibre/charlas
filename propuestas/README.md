@@ -24,6 +24,9 @@ aparecerá cuando se acepte**
 * [Herramientas de Detección de Género. Damegender como caso de uso](damegender.md), por ***David Arroyo Menéndez***.
 * [Social justice code repositories](repositories.md), por ***Lorena Sánchez Chamorro**, jurista y politóloga*.
 * [AndaluGeeks - Comunidâh OpenSource pa la difuçión del Andalûh](andalugeeks.md), por ***J. Félix Ontañón**, Director de Innovación en PodM2M*.
+* [HackLab Almería, un modelo de dinamización tecnológica hiperlocal»](HLA-dinamizacion-hiperlocal.md), por ***Ismael Olea***,  _IT Morning Singer_.
+* [**29110_EPF_library**: hacía un cuerpo de conocimiento abierto de prácticas de desarrollo de software adecuadas para muy pequeñas organizaciones](29110-EPF_library.md), por ***Ismael Olea***, *archipámpano TIC*.
+* [Wikitatón de patrimonio inmueble histórico de Andalucía: de Andalucía para España y la Humanidad](Wikitaton.md), por ***Ismael Olea***, *Wikipedista de Medio Pelo, miembro de [WMES](http://wikimedia.es)*.
 * [OpenSource OpenData](OpenSourceOpenData), por ***Jorge Aguilera (@jagedn)***, CPT en Puravida Software.
 
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

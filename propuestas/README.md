@@ -24,5 +24,6 @@ aparecerá cuando se acepte**
 * [Herramientas de Detección de Género. Damegender como caso de uso](damegender.md), por ***David Arroyo Menéndez***.
 * [Social justice code repositories](repositories.md), por ***Lorena Sánchez Chamorro**, jurista y politóloga*.
 * [AndaluGeeks - Comunidâh OpenSource pa la difuçión del Andalûh](andalugeeks.md), por ***J. Félix Ontañón**, Director de Innovación en PodM2M*.
+* [OpenSource OpenData](OpenSourceOpenData), por ***Jorge Aguilera (@jagedn)***, CPT en Puravida Software.
 
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

@@ -15,6 +15,8 @@ El grupo que impulsa esta devroom es [Granada Perl Mongers](http://granada.pm) y
 * Juan Julián Merelo Guervós: Perl monger monger.
 * Antonio Gámiz Delgado: Estudiante de la UGR y Perl monger.
 
+La coordinación de la devroom se realizará desde: https://github.com/antoniogamiz/devroom-perl-eslibre.
+
 ## Público objetivo
 
 A todo el mundo.

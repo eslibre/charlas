@@ -16,4 +16,4 @@ A cualquiera que trabaje con contenedores y sistemas de integración continua.
 
 ## Ponente(s)
 
-Ernesto Serrano (@erseco), DevOps Engineer en [OpenExO](@exolever).
+Ernesto Serrano ([@erseco](https://github.com/erseco)), DevOps Engineer en [OpenExO](https://www.openexo.com).

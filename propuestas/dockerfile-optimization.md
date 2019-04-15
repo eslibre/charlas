@@ -8,7 +8,7 @@ Algunos trucos y consejos para hacer que tus contenedores ocupen lo mínimo posi
 
 ## Descripción
 
-¿Te pasas la vida esperando a que termine ese `docker-compose pull`? ¿Tus macroservicios dockerizados tienen una masa mayor que la de un agujero negro? ¿Te preocupa la huella ecológica de tanto trasiego de información? En esta charla mostraré como hacemos en [OpenExO](@exolever) para ajustar la junta de la trócola y hacer que nuestros contenedores ocupen lo mínimo posible.
+¿Te pasas la vida esperando a que termine ese `docker-compose pull`? ¿Tus macroservicios dockerizados tienen una masa mayor que la de un agujero negro? ¿Te preocupa la huella ecológica de tanto trasiego de información? En esta charla mostraré como hacemos en [OpenExO](https://www.openexo.com) para ajustar la junta de la trócola y hacer que nuestros contenedores ocupen lo mínimo posible.
 
 ## Público objetivo
 

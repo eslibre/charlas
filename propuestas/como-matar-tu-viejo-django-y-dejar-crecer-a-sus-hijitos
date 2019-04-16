@@ -19,6 +19,9 @@ la autenticación, comunicación entre servicios, etc. Todo esto recogido desde 
 partes de la empresa. 
 Uno de los principales handicaps de este enfoque es como hacerlo a la misma vez que el negocio continua evolucionando y se tiene que dar soporte
 a los usuarios actuales.
+La base tecnológica es el software libre, ya que nuestro framework principal es Django, y hacemos uso de otras plataformas de software libre
+como Lightbus o SocketShark para la comunicación entre servicios. Ademas, en nuestro repo de github puedes encontrar diversos paquetes que hemos ido
+liberando y que pueden ser reutilizados a traves de pypi (la mayor parte de ellos son apps para Django).
 
 ## Público objetivo
 Desarrolladores que se interesen por la arquitectura de las aplicaciones.

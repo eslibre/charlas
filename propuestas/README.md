@@ -28,7 +28,7 @@ aparecerá cuando se acepte**
 * [29110_EPF_library: hacía un cuerpo de conocimiento abierto de prácticas de desarrollo de software adecuadas para muy pequeñas organizaciones](29110-EPF_library.md), por ***Ismael Olea***, *archipámpano TIC*.
 * [Wikitatón de patrimonio inmueble histórico de Andalucía: de Andalucía para España y la Humanidad](Wikitaton.md), por ***Ismael Olea***, *Wikipedista de Medio Pelo, miembro de [WMES](http://wikimedia.es)*.
 * [Wendigo (y otros monstruos)](wendigo.md), por ***Andrés Ortíz (@angrykoala)**, desarrollador software y creador de multiples proyectos open-source*.
-* [OpenSource OpenData](OpenSourceOpenData), por ***Jorge Aguilera (@jagedn)**, CPT en Puravida Software*.
+* [OpenSource OpenData](OpenSourceOpenData.md), por ***Jorge Aguilera (@jagedn)**, CPT en Puravida Software*.
 * [Como matar a tu viejo Django y dejar crecer a sus hijitos](django-hijitos.md), por ***Tomás Garzón**, Lead Software Developer en OpenExo*.
 * [De Ballena a Gallopedro. Optimizando Dockerfiles](dockerfile-optimization.md), por ***Ernesto Serrano ([@erseco](https://github.com/erseco))**, DevOps Engineer en [OpenExO](https://www.openexo.com)*.
 

@@ -8,7 +8,7 @@
 
 ##  Descripción
 
-La posición del sol es importante: gnomótica, enercia solar, astrología.  
+La posición del sol es importante: gnomótica, energía solar, astrología, estudio de sombras...  
 
 Como pequeña introduccion a los estudios de gnomótica, se pretende desarrollar los algoritmos presentados por Denis Savoie
 en su libro "La Gnomonique".  

@@ -61,6 +61,8 @@ Formaríamos parte de esLibre, al menos las siguientes personas:
 
 Estamos abiertos a incorporar a nuestra candidatura a más personas que compartan estas inquietudes y que quieran participar de la propia organización de la devroom.
 
+## Call for papers
+El call for papers está abierto en esta web, mándanos tu propuesta [trackula.org/en/page/cfp-eslibre-2019/](https://trackula.org/en/page/cfp-eslibre-2019/)
 
 ## Público objetivo
 

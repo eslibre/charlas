@@ -1,10 +1,22 @@
-# Nombre de la propuesta
-Not your typical Neural Network's talk
+# Título de la propuesta
 
-# Personas que la proponen
-Miguel Lopez Pérez y Bartolomé Ortiz Viso
+This is not your typical talk about Neural Networks
 
-# Condiciones
+## Formato de la propuesta
 
-* [x] Acepto seguir el [código de conducta](https://eslib.re/2019/conducta/) y solicitar a los asistentes y ponentes esta aceptación.
-* [x] Al menos una persona entre los que la proponen estará presente en Granada el día 21 junio de 2019.
+* Charla (50 minutos)
+
+## Descripción
+Aqui las cosas chulis
+
+## Público objetivo
+
+* Seres vivos basados en carbono en general.
+* Gente con interés en profundizar en las redes neuronales.
+
+## Conferenciante
+
+[Miguel Lopez Perez](http://olea.org), de profesión _sus labores_.
+
+[Bartolomé Ortiz Viso](https://thebooort.github.io), de profesión _sus labores_.
+

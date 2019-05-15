@@ -16,7 +16,7 @@ Aqui las cosas chulis
 
 ## Conferenciante
 
-[Miguel Lopez Perez](http://olea.org), de profesión _sus labores_.
+[Miguel Lopez Perez](http://mikthemachine.org), un buen matemático, se podría decir que el mas bayesiano desde bayes.
 
-[Bartolomé Ortiz Viso](https://thebooort.github.io), de profesión _sus labores_.
+[Bartolomé Ortiz Viso](https://thebooort.github.io), Math-lover, Meme-addict, passionate about SciComm.
 

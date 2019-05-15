@@ -32,5 +32,5 @@ aparecerá cuando se acepte**
 * [Como matar a tu viejo Django y dejar crecer a sus hijitos](django-hijitos.md), por ***Tomás Garzón**, Lead Software Developer en OpenExo*.
 * [De Ballena a Gallopedro. Optimizando Dockerfiles](dockerfile-optimization.md), por ***Ernesto Serrano ([@erseco](https://github.com/erseco))**, DevOps Engineer en [OpenExO](https://www.openexo.com)*.
 * [Emulando impresoras para generar PDF](papel2pdf.md), por ***Jose Luis Perez Diez**, @jluis en ecol & github ;)*
-* [Esta no es la típica charla de Redes Neuronales](EnLasTripasDeKeras.md), por ***Miguel Lopez** y **Bartolomé Ortiz**, estudiantes de doctorado de la Universidad de Granada*.
+* [En las tripas de Keras](EnLasTripasDeKeras.md), por ***Miguel Lopez** y **Bartolomé Ortiz**, estudiantes de doctorado de la Universidad de Granada*.
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

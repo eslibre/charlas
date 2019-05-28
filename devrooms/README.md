@@ -4,12 +4,8 @@ Una devroom estará centrada en una comunidad, y tendrá un espacio propio para 
 
 ## Devrooms aceptadas.
 
-
 * [FLOSS en la universidad](universidad.md)
-* [Ciberseguridad y hacking](seguridad.md)
 * [Big Data y Machine Learning](bigdata_ml.md)
 * [Privacidad, descentralización y soberanía digital](privacidad.md)
 * [Perl](perl.md)
 * [Informática y matemáticas](info-mat.md)
-
-

@@ -16,4 +16,4 @@ Toda persona con conocimientos técnicos que esté interesada en el mundo de los
 
 ## Ponente(s)
 
-Ignasi Camacho Redo ([@IgnasiCR](https://github.com/IgnasiCR)), estudiante de Ingeniería Informática en la UGR y creador de ([@fightETSIIT_Bot](https://web.telegram.org/#/im?p=@FightETSIIT_Bot)).
+Ignasi Camacho Redo ([@IgnasiCR](https://github.com/IgnasiCR)), estudiante de Ingeniería Informática en la UGR y creador de ([@fightETSIIT_Bot](https://github.com/IgnasiCR/fightETSIIT)).

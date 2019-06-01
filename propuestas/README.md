@@ -36,5 +36,8 @@ aparecerá cuando se acepte**
 * [Hace más de 10 años que hacía 10 años](10y10.md), por ***Jesús M. González Barahona**, profesor titular y coordinador de la Oficina de Conocimiento y Cultura Libres de la [Universidad Rey Juan Carlos](https://www.urjc.es/).*
 * [Ha fracasdo el Software Libre en España?](ha-fracasado-software-libre-espana.md), por ***José Manrique López de la Fuente**, CEO y socio de [Bitergia](https://bitergia.com)*.
 * [En las tripas de Keras](EnLasTripasDeKeras.md), por ***Miguel Lopez** y **Bartolomé Ortiz**, estudiantes de doctorado de la [Universidad de Granada](https://www.ugr.es/)*.
-* [Cosas que molan en lenguajes de programación modernos](lenguajes-molan.md), por ***Juan Julián Merelo, profesor en la [Universidad de Granada](https://www.ugr.es/)*.
+* [Cosas que molan en lenguajes de programación modernos](lenguajes-molan.md), por ***Juan Julián Merelo**, profesor en la [Universidad de Granada](https://www.ugr.es/)*.
+* [API Telegram + PHP](API-Telegram-PHP.md), por ***Ignasi Camacho Redo**, estudiante de Ingeniería Informática en la [Universidad de Granada](https://www.ugr.es/)*.
+* [Palomitas](palomitas.md), por ***Juan Domínguez Jara**, Front-end engineer [Geographica](https://geographica.com/es/)([CARTO](https://carto.com/))*.
+* [¿Se puede pintar con software libre?](pintar_software_libre.md), por ***Ramón Miranda**, ilustrador y formador en pintura digital y técnicas clásicas*.
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

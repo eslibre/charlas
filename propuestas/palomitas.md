@@ -19,9 +19,9 @@ Lo he llamado Palomitas en honor a Popcorn-Time y mi objetivo es conseguir una e
 
 [sub-down](https://github.com/juandjara/sub-down) es un servicio que sirve para buscar subtitulos en `openSubtitles`, ya sea por una cadena de texto simple o con el identificador de IMDB. También convierte los subtitulos a un formato usable para los navegadores.
 
-[palomitas](https://github.com/juandjara/palomitas) es el cliente más completo y el que tiene el mejor catálogo. Se apoya en una API de Popcorn Time y los dos servicios mencionados anteriormente para construir la interfaz de visualización de los videos, te recuerda las series que has visto y tiene un diseño muy amigable.
+[palomitas](https://github.com/juandjara/palomitas) es el cliente más completo, el front-end principal, y el que tiene el mejor catálogo. Se apoya en una API de Popcorn Time y los dos servicios mencionados anteriormente para construir la interfaz de visualización de los videos, te recuerda las series que has visto y tiene un diseño muy amigable.
 
-Y por último esta dibujitos [dibujitos](https://github.com/juandjara/dibujitos) que es una idea similar pero con un catálogo de anime de la web nyaa.si y metadatos de kitsu combinados en [otra API](https://github.com/juandjara/dibujitos-api) que se encarga de cachear las consultas.
+Y por último esta dibujitos [dibujitos](https://github.com/juandjara/dibujitos) que es una idea similar para otro front-end pero con un catálogo de anime de la web nyaa.si y metadatos de kitsu combinados en [otra API](https://github.com/juandjara/dibujitos-api) que se encarga de cachear las consultas.
 
 ## Público objetivo
 

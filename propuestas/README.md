@@ -40,5 +40,5 @@ aparecerá cuando se acepte**
 * [API Telegram + PHP](API-Telegram-PHP.md), por ***Ignasi Camacho Redo**, estudiante de Ingeniería Informática en la [Universidad de Granada](https://www.ugr.es/)*.
 * [Palomitas](palomitas.md), por ***Juan Domínguez Jara**, Front-end engineer [Geographica](https://geographica.com/es/)([CARTO](https://carto.com/))*.
 * [¿Se puede pintar con software libre?](pintar_software_libre.md), por ***Ramón Miranda**, ilustrador y formador en pintura digital y técnicas clásicas*.
-* [Pythonear sin salpicar](pythonear-sin-salpicar.md), por *autor/a/es*.
+* [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras***, flamer ecléctico y calvo.
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

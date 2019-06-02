@@ -4,8 +4,6 @@ La charla es para aprender que son los entornos virtuales en Python, y un par de
 
 ## Formato de la propuesta
 
-Indicar uno de estos:
-
 * Charla (50 minutos)
 * Charla relámpago (20 minutos)
 

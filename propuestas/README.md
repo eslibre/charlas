@@ -39,8 +39,11 @@ aparecerá cuando se acepte**
 * [Cosas que molan en lenguajes de programación modernos](lenguajes-molan.md), por ***Juan Julián Merelo**, profesor en la [Universidad de Granada](https://www.ugr.es/)*.
 * [API Telegram + PHP](API-Telegram-PHP.md), por ***Ignasi Camacho Redo**, estudiante de Ingeniería Informática en la [Universidad de Granada](https://www.ugr.es/)*.
 * [Palomitas](palomitas.md), por ***Juan Domínguez Jara**, Front-end engineer [Geographica](https://geographica.com/es/)([CARTO](https://carto.com/))*.
+* [Haskell para hackers usando CodeWars](haskell-codewars.md), por ***Reynaldo Cordero**, analista/programador Servicios Informáticos de la [Universidad de Alcalá](https://www.uah.es/es/)*.
 * [¿Se puede pintar con software libre?](pintar_software_libre.md), por ***Ramón Miranda**, ilustrador y formador en pintura digital y técnicas clásicas*.
+* [¿Porqué tipos de dato algebraicos?](porque_tipos_de_datos_algebraicos.md), por ***Dawid Furman**, Java and Scala developer Co-Organiser of [Málaga Scala Developers](https://www.meetup.com/es-ES/Malaga-Scala/)*.
 * [Doc-As-Code](Doc-As-Code.md), por ***Jorge Aguilera (@jagedn)**, CPT en [Puravida Software](https://www.puravida-software.com/)*.
+* [Software libre y fabricación digital en espacios maker](software-libre-y-fabricacion-digital-en-espacios-maker.md), por ***César García Sáez**, co-fundador de [Makespace Madrid](https://makespacemadrid.org/)*.
 * [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras***, flamer ecléctico y calvo.
-* [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por *Juan Tomás García*, Chief Envisioning Officer at Sngular & GDE for Cloud & ML.
+* [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por ***Juan Tomás García**, Chief Envisioning Officer at [Sngular](https://www.sngular.com/) & Google Developer Expert for Cloud & Machine Learning*.
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

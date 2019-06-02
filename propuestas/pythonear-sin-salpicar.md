@@ -1,6 +1,6 @@
 # Pythonear sin pringar
 
-Aprender un par de herramientas / utilidades, como son los entornor virtuales, que nos permitan poder cacharrear con Python y no romper nada en el ordenador.
+La charla es para aprender que son los entornos virtuales en Python, y un par de herramientas / utilidades que nos permitan cacharrear con el lenguaje amigablemente.
 
 ## Formato de la propuesta
 

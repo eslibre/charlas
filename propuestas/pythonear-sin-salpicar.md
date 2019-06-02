@@ -29,4 +29,4 @@ Personas con poca experiencia con Python o que esten empezando a programar con P
 
 ## Ponente(s)
 
-Cristóbal Contreras Rubio, flamer ecléctico y calvo. El "*niño pa tó*" donde curro. Colaboro desde hace tiempo en [Hacklab Almería](https://hacklabalmeria.net/), y me he involucrado en proyectos colaborativos (como [Pymiento Project](http://thepymientoproject.com/)) donde siempre hemos priorizado a las personas y los procesos, antes que los resultados. Ahora ando con varias personas tratando de sacar adelante [La Jaquería](https://lajaqueria.org/), el Hackspace de Almería.
+Cristóbal Contreras Rubio, flamer ecléctico y calvo. El "*niño pa tó*" donde curro. Colaboro desde hace tiempo en [Hacklab Almería](https://hacklabalmeria.net/), y me he involucrado en proyectos colaborativos (como [Pymiento Project](http://thepymientoproject.com/)) donde siempre hemos priorizado a las personas y los procesos, antes que los resultados. Ahora ando con varias personas tratando de sacar adelante [La Jaquería](https://lajaqueria.org/), un Hackspace en Almería.

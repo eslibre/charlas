@@ -7,8 +7,8 @@
 Indicar uno de estos:
 
 * Taller (110 minutos)
-* Charla (50 minutos)
-* Charla relámpago (20 minutos)
+* **Charla (50 minutos) (La mejor opción)**
+* Charla relámpago (20 minutos) (Quedaría algo confusa)
 
 ## Descripción
 
@@ -27,7 +27,7 @@ de primera mano.  ;-)
 Cualquiera interesado en los lenguajes de programación, de cualquier
 nivel, especialmente a los que les gusten los enfoques poco trillados.
 
-Cualquiera que quiera entender las posibilidades de CodeWars.
+Cualquiera que quiera valorar mejor las posibilidades de CodeWars.
 
 ## Ponente(s)
 

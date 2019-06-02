@@ -9,9 +9,11 @@ Vamos a ver y contar un par de ADT en Scala, Haskell y _
 
 ## Descripción
 
-Product, Sum y Exponential type y sus Álgebra.
-Cardinalidad e Isomorfism.
-Tipos y sus varianza (Co-Con-In-varianza)
+ADT y algebra con Curry-Howard Isomorphism - una cosa que Philip Wadler (un co-autor de Generic in Java y claro un grande personaje dentro de mundo FP) - entonces eso sobre todo en Types Cardinalities
+Pattern maching sobre ADT
+Type Variance - en contexto del Functores y sobre todo bifunctor y profunctores
+Ejemplos en Scala y Haskell y _
+Quíza un poco de kinds y type projector
 
 ## Público objetivo
 

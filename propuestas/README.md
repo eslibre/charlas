@@ -41,7 +41,7 @@ aparecerá cuando se acepte**
 * [Palomitas](palomitas.md), por ***Juan Domínguez Jara**, Front-end engineer [Geographica](https://geographica.com/es/)([CARTO](https://carto.com/))*.
 * [Haskell para hackers usando CodeWars](haskell-codewars.md), por ***Reynaldo Cordero**, analista/programador Servicios Informáticos de la [Universidad de Alcalá](https://www.uah.es/es/)*.
 * [¿Se puede pintar con software libre?](pintar_software_libre.md), por ***Ramón Miranda**, ilustrador y formador en pintura digital y técnicas clásicas*.
-* [¿Porqué tipos de dato algebraicos?](porque_tipos_de_datos_algebraicos.md), por ***Dawid Furman**, Java and Scala developer Co-Organiser of [Málaga Scala Developers](https://www.meetup.com/es-ES/Malaga-Scala/)*.
+* [¿Por qué tipos de dato algebraicos?](por_que_tipos_datos_algebraicos.md), por ***Dawid Furman**, Java and Scala developer Co-Organiser of [Málaga Scala Developers](https://www.meetup.com/es-ES/Malaga-Scala/)*.
 * [Doc-As-Code](Doc-As-Code.md), por ***Jorge Aguilera (@jagedn)**, CPT en [Puravida Software](https://www.puravida-software.com/)*.
 * [Software libre y fabricación digital en espacios maker](software-libre-y-fabricacion-digital-en-espacios-maker.md), por ***César García Sáez**, co-fundador de [Makespace Madrid](https://makespacemadrid.org/)*.
 * [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras***, flamer ecléctico y calvo.

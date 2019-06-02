@@ -40,4 +40,5 @@ aparecerá cuando se acepte**
 * [API Telegram + PHP](API-Telegram-PHP.md), por ***Ignasi Camacho Redo**, estudiante de Ingeniería Informática en la [Universidad de Granada](https://www.ugr.es/)*.
 * [Palomitas](palomitas.md), por ***Juan Domínguez Jara**, Front-end engineer [Geographica](https://geographica.com/es/)([CARTO](https://carto.com/))*.
 * [¿Se puede pintar con software libre?](pintar_software_libre.md), por ***Ramón Miranda**, ilustrador y formador en pintura digital y técnicas clásicas*.
+* [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por *Juan Tomás García*, Chief Envisioning Officer at Sngular & GDE for Cloud & ML.
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

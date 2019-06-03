@@ -30,7 +30,7 @@ aparecerá cuando se acepte**
 * [OpenSource OpenData](OpenSourceOpenData.md), por ***Jorge Aguilera (@jagedn)**, CPT en [Puravida Software](https://www.puravida-software.com/)*.
 * [Como matar a tu viejo Django y dejar crecer a sus hijitos](django-hijitos.md), por ***Tomás Garzón**, Lead Software Developer en [OpenExO](https://www.openexo.com)*.
 * [De Ballena a Gallopedro. Optimizando Dockerfiles](dockerfile-optimization.md), por ***Ernesto Serrano ([@erseco](https://github.com/erseco))**, DevOps Engineer en [OpenExO](https://www.openexo.com)*.
-* [Emulando impresoras para generar PDF](papel2pdf.md), por ***Jose Luis Perez Diez**, @jluis en ecol & GitHub ;)*
+* [Emulando impresoras para generar PDF](papel2pdf.md), por ***José Luis Perez Diez**, programador y administrado de sistemas. [Barcelona Perl Mongers](https://www.meetup.com/es-ES/barcelonapm/)*
 * [InnerSource, ¿qué es eso?](innersource.md), por ***Daniel Izquierdo Cortázar**, fundador de [Bitergia](https://bitergia.com)*.
 * [Hace más de 10 años que hacía 10 años](10y10.md), por ***Jesús M. González Barahona**, profesor titular y coordinador de la Oficina de Conocimiento y Cultura Libres de la [Universidad Rey Juan Carlos](https://www.urjc.es/).*
 * [Ha fracasdo el Software Libre en España?](ha-fracasado-software-libre-espana.md), por ***José Manrique López de la Fuente**, CEO y socio de [Bitergia](https://bitergia.com)*.
@@ -40,10 +40,10 @@ aparecerá cuando se acepte**
 * [Palomitas](palomitas.md), por ***Juan Domínguez Jara**, Front-end engineer [Geographica](https://geographica.com/es/)([CARTO](https://carto.com/))*.
 * [Haskell para hackers usando CodeWars](haskell-codewars.md), por ***Reynaldo Cordero**, analista/programador Servicios Informáticos de la [Universidad de Alcalá](https://www.uah.es/es/)*.
 * [¿Se puede pintar con software libre?](pintar_software_libre.md), por ***Ramón Miranda**, ilustrador y formador en pintura digital y técnicas clásicas*.
-* [¿Por qué tipos de dato algebraicos?](por_que_tipos_datos_algebraicos.md), por ***Dawid Furman**, Java and Scala developer Co-Organiser of [Málaga Scala Developers](https://www.meetup.com/es-ES/Malaga-Scala/)*.
+* [¿Por qué tipos de dato algebraicos?](por_que_tipos_datos_algebraicos.md), por ***Dawid Furman**, Java and Scala developer. Co-Organiser of [Málaga Scala Developers](https://www.meetup.com/es-ES/Malaga-Scala/)*.
 * [Doc-As-Code](Doc-As-Code.md), por ***Jorge Aguilera (@jagedn)**, CPT en [Puravida Software](https://www.puravida-software.com/)*.
 * [Software libre y fabricación digital en espacios maker](software-libre-y-fabricacion-digital-en-espacios-maker.md), por ***César García Sáez**, co-fundador de [Makespace Madrid](https://makespacemadrid.org/)*.
-* [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras***, flamer ecléctico y calvo.
+* [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras**, flamer ecléctico y calvo. [Hacklab Almería](https://hacklabalmeria.net/) / [La Jaquería](https://lajaqueria.org/).
 * [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por ***Juan Tomás García**, Chief Envisioning Officer at [Sngular](https://www.sngular.com/) & Google Developer Expert for Cloud & Machine Learning.
-* [Taller práctico de Big Data](taller_bigdata.md), por *Alvaro del Castillo*, Software Architect at Paradigma Digital.
+* [Taller práctico de Big Data](taller_bigdata.md), por ***Alvaro del Castillo**, Software Architect at [Paradigma Digital](https://www.paradigmadigital.com/)*.
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

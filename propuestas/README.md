@@ -46,4 +46,5 @@ aparecerá cuando se acepte**
 * [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras**, flamer ecléctico y calvo. [Hacklab Almería](https://hacklabalmeria.net/) / [La Jaquería](https://lajaqueria.org/).
 * [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por ***Juan Tomás García**, Chief Envisioning Officer at [Sngular](https://www.sngular.com/) & Google Developer Expert for Cloud & Machine Learning.
 * [Taller práctico de Big Data](taller_bigdata.md), por ***Alvaro del Castillo**, Software Architect at [Paradigma Digital](https://www.paradigmadigital.com/)*.
+* [Flying high with your Kubernetes applications](flying-high-with-your-kubernetes-applications.md), por **Jose Luis Martínez Torres** (https://www.linkedin.com/in/joseluismartineztorres/)
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

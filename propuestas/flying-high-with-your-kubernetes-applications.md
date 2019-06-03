@@ -1,6 +1,6 @@
 # Título de la propuesta
 
-Flying to the Cloud
+Flying high with your Kubernetes applications
 
 ## Formato de la propuesta
 
@@ -8,7 +8,7 @@ Charla (50 minutos)
 
 ## Descripción
 
-Seguiremos a dos aventureros que en 1959 hicieron algo extraordinario. ¿Puede su gesta enseñarnos como afrontar proyectos en el Cloud?
+Seguiremos a dos aventureros que en 1959 hicieron algo extraordinario. ¿Puede su gesta enseñarnos como afrontar proyectos en Kubernetes? ¿y en Cloud?
 
 ## Público objetivo
 

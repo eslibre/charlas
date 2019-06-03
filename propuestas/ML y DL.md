@@ -8,7 +8,7 @@ Porqué en Machine Learning y Deep Learning no todo está permitido.
 
 ## Descripción
 
-El mundo de la inteligencia artificial ha cambiado, la aparición de tecnologías basadas en Machine Learning y Deep Learning se ha propagado como la espuma. Ejemplos de esto son TensorFlow, Pandas, DeepVariant... El acceso a cursos y material hace que cada vez más gente se inicie en esta materia. Sin embargo, ¿son todas estas soluciones válidas?, ¿lo estamos haciendo bien?
+El mundo de la inteligencia artificial ha cambiado, la aparición de tecnologías libres basadas en Machine Learning y Deep Learning se ha propagado como la espuma. Ejemplos de esto son TensorFlow, Pandas, DeepVariant... El acceso a cursos y material hace que cada vez más gente se inicie en esta materia. Sin embargo, ¿son todas estas soluciones válidas?, ¿lo estamos haciendo bien?
 
 En esta charla ofreceremos respuestas a estas preguntas y ofreceremos consejos de buenas prácticas a la hora de hacer Machine Learning y Deep Learning que no se tienen en cuenta muchas veces. En definitiva, realizar aplicaciones que sean correctas y hagan los modelos más eficientes y robustos.
 

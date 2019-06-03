@@ -22,7 +22,6 @@ aparecerá cuando se acepte**
 * [Gestor de Escritorios Virtuales Ravada](ravada.md), por ***Francesc Guasch**, administrador de sistemas en [Universitat Politècnica de Catalunya](https://www.upc.edu)*.
 * [Mapas](mapas.md), por ***Iván Sánchez Ortega**, antiguo [es.comp.os.linux-ero](http://www.escomposlinux.org/)*; y ***María Arias de Reyna Domínguez**, presidenta de [OSGeo](https://www.osgeo.org/)*.
 * [Herramientas de Detección de Género. Damegender como caso de uso](damegender.md), por ***David Arroyo Menéndez**, estudiante de doctorado de la [Universidad Rey Juan Carlos](https://www.urjc.es/)*.
-* [Social justice code repositories](repositories.md), por ***Lorena Sánchez Chamorro**, jurista y politóloga*.
 * [AndaluGeeks - Comunidâh OpenSource pa la difuçión del Andalûh](andalugeeks.md), por ***J. Félix Ontañón**, Director de Innovación en [PodM2M](https://podm2m.com/)*.
 * [HackLab Almería, un modelo de dinamización tecnológica hiperlocal»](HLA-dinamizacion-hiperlocal.md), por ***Ismael Olea***,  _IT Morning Singer_.
 * [29110_EPF_library: hacía un cuerpo de conocimiento abierto de prácticas de desarrollo de software adecuadas para muy pequeñas organizaciones](29110-EPF_library.md), por ***Ismael Olea***, *archipámpano TIC*.

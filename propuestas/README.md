@@ -21,7 +21,6 @@ aparecerá cuando se acepte**
 * [OWASP Top 10 (2017)](owasp-top-10_2017.md), por ***Ángel Gómez Romero**, Advanced App Engineering Associate Manager en [Accenture Spain Technology Center (Málaga)](https://www.accenture.com/es-es/delivery-center-malaga)*.
 * [Gestor de Escritorios Virtuales Ravada](ravada.md), por ***Francesc Guasch**, administrador de sistemas en [Universitat Politècnica de Catalunya](https://www.upc.edu)*.
 * [Mapas](mapas.md), por ***Iván Sánchez Ortega**, antiguo [es.comp.os.linux-ero](http://www.escomposlinux.org/)*; y ***María Arias de Reyna Domínguez**, presidenta de [OSGeo](https://www.osgeo.org/)*.
-* [Herramientas de Detección de Género. Damegender como caso de uso](damegender.md), por ***David Arroyo Menéndez**, estudiante de doctorado de la [Universidad Rey Juan Carlos](https://www.urjc.es/)*.
 * [AndaluGeeks - Comunidâh OpenSource pa la difuçión del Andalûh](andalugeeks.md), por ***J. Félix Ontañón**, Director de Innovación en [PodM2M](https://podm2m.com/)*.
 * [29110_EPF_library: hacía un cuerpo de conocimiento abierto de prácticas de desarrollo de software adecuadas para muy pequeñas organizaciones](29110-EPF_library.md), por ***Ismael Olea***, *archipámpano TIC*.
 * [Wikitatón de patrimonio inmueble histórico de Andalucía: de Andalucía para España y la Humanidad](Wikitaton.md), por ***Ismael Olea***, *Wikipedista de Medio Pelo, miembro de [WMES](http://wikimedia.es)*.

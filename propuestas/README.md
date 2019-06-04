@@ -12,7 +12,7 @@ Por favor, sigue la
 [plantilla](plantilla.md) y envía tu charla mediante un PR en este
 repo con un fichero donde se incluya la charla.
 
-## Charlas propuestas
+## Charlas aceptadas
 
 **Añade un enlace al fichero en el que hayas enviado tu charla aquí, y
 aparecerá cuando se acepte**
@@ -45,4 +45,6 @@ aparecerá cuando se acepte**
 * [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras**, flamer ecléctico y calvo. [Hacklab Almería](https://hacklabalmeria.net/) / [La Jaquería](https://lajaqueria.org/).
 * [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por ***Juan Tomás García**, Chief Envisioning Officer at [Sngular](https://www.sngular.com/) & Google Developer Expert for Cloud & Machine Learning.
 * [Taller práctico de Big Data](taller_bigdata.md), por ***Alvaro del Castillo**, Software Architect at [Paradigma Digital](https://www.paradigmadigital.com/)*.
+* [Flying high with your Kubernetes applications](flying-high-with-your-kubernetes-applications.md), por **Jose Luis Martínez Torres** (https://www.linkedin.com/in/joseluismartineztorres/)
+* [Porqué en Machine Learning y Deep Learning no todo está permitido](MLyDL.md), por [Luis González Jaime](https://www.linkedin.com/in/luisgjaime/)
 * [«Tu charla»](plantilla.md), por *autor/a/es*.

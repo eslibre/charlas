@@ -1,4 +1,4 @@
-#¿Por qué Tipos de Dato Algebraicos?
+# ¿Por qué Tipos de Dato Algebraicos?
 
 Cómo se puede utilizar básicos operadores matemáticos para evaluar una prueba de mis datos.
 Vamos a ver y contar un par de ADT en Scala, Haskell y _ 

@@ -23,7 +23,6 @@ aparecerá cuando se acepte**
 * [Mapas](mapas.md), por ***Iván Sánchez Ortega**, antiguo [es.comp.os.linux-ero](http://www.escomposlinux.org/)*; y ***María Arias de Reyna Domínguez**, presidenta de [OSGeo](https://www.osgeo.org/)*.
 * [Herramientas de Detección de Género. Damegender como caso de uso](damegender.md), por ***David Arroyo Menéndez**, estudiante de doctorado de la [Universidad Rey Juan Carlos](https://www.urjc.es/)*.
 * [AndaluGeeks - Comunidâh OpenSource pa la difuçión del Andalûh](andalugeeks.md), por ***J. Félix Ontañón**, Director de Innovación en [PodM2M](https://podm2m.com/)*.
-* [HackLab Almería, un modelo de dinamización tecnológica hiperlocal»](HLA-dinamizacion-hiperlocal.md), por ***Ismael Olea***,  _IT Morning Singer_.
 * [29110_EPF_library: hacía un cuerpo de conocimiento abierto de prácticas de desarrollo de software adecuadas para muy pequeñas organizaciones](29110-EPF_library.md), por ***Ismael Olea***, *archipámpano TIC*.
 * [Wikitatón de patrimonio inmueble histórico de Andalucía: de Andalucía para España y la Humanidad](Wikitaton.md), por ***Ismael Olea***, *Wikipedista de Medio Pelo, miembro de [WMES](http://wikimedia.es)*.
 * [Wendigo (y otros monstruos)](wendigo.md), por ***Andrés Ortíz (@angrykoala)**, desarrollador software y creador de multiples proyectos open-source*.

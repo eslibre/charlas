@@ -10,25 +10,20 @@ lugar de papel.
 
 ## Descripción
 
-Primero explicare como se gesto el sistema de impresión actual en los 
-80 con impresoras  XEROX, narrare una pequeña crisis que nos 
-ocurrió a mediados de los 90 que fue crucial para la solución actual.
+Primero explicaré cómo se gestó el sistema de impresión actual en los 80 con impresoras XEROX, narraré una pequeña crisis que nos ocurrió a mediados de los 90 que fue crucial para la solución actual.
 
-Después explicare el flujo de trabajo "clásico" con la aplicación y por
-ultimo mostraré la solucion actual con streams de impresión anonimizados
-sobre un hardware similar al que uso en el trabajo.
+Después explicaré el flujo de trabajo "clásico" con la aplicación y por último mostraré la solución actual con streams de impresión anonimizados sobre un hardware similar al que uso en el trabajo.
 
-La soucion actual:
- * Hardware:
-  * Raspberry Pi 3B+ 
- * Software:
-  * Rasbian (Debian dased)
-  * DateTime ( https://metacpan.org/pod/DateTime#COPYRIGHT-AND-LICENSE)
-  * x3270 (http://x3270.bgp.nu/) BSD y partes MIT
-  * goshtpcl (https://ghostscript.com/GhostPCL.html) Afero GPL
-  * Intento liberar el programa que conviente un subset de XES a HP-PCL 
-  (si no consiguo liberarlo, publicare como GPLv3 una alternativa que conviete 
-  XES a PDF basda en https://github.com/jeffreykegler/Marpa--R2)
+La solución actual:
+
+* Hardware:
+  + Raspberry Pi 3B+
+    
+* Software:
+  + Raspbian (Debian based)
+  + DateTime (https://metacpan.org/pod/DateTime#COPYRIGHT-AND-LICENSE) The Artistic License 2.0
+  + x3270 (http://x3270.bgp.nu/) BSD/MIT
+  + GhostPCL (https://ghostscript.com/GhostPCL.html) Affero GPL
 
 ## Público objetivo
 

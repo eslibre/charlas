@@ -9,11 +9,12 @@ Vamos a ver y contar un par de ADT en Scala, Haskell y _
 
 ## Descripción
 
-ADT y algebra con Curry-Howard Isomorphism - una cosa que Philip Wadler (un co-autor de Generic in Java y claro un grande personaje dentro de mundo FP) - entonces eso sobre todo en Types Cardinalities
-Pattern maching sobre ADT
-Type Variance - en contexto del Functores y sobre todo bifunctor y profunctores
-Ejemplos en Scala y Haskell y _
-Quíza un poco de kinds y type projector
+ADT (Algebraic Data Type) y álgebra con isomorfismo de Curry-Howard, Philip Wadler (co-autor de "Generic in Java" y gran personaje dentro de mundo de la programación funcional), Types Cardinalities.
+
+* Búsqueda de patrones sobre ADT
+* Type Variance - en contexto del functores y sobre todo bifuntores y profunctores
+* Ejemplos en Scala, Haskell...
+* Quizá un poco de Kinds y Type Projector...
 
 ## Público objetivo
 

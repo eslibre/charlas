@@ -41,7 +41,7 @@ aparecerá cuando se acepte**
 * [¿Por qué tipos de dato algebraicos?](por_que_tipos_datos_algebraicos.md), por ***Dawid Furman**, Java and Scala developer. Co-Organiser of [Málaga Scala Developers](https://www.meetup.com/es-ES/Malaga-Scala/)*.
 * [Doc-As-Code](Doc-As-Code.md), por ***Jorge Aguilera (@jagedn)**, CPT en [Puravida Software](https://www.puravida-software.com/)*.
 * [Software libre y fabricación digital en espacios maker](software-libre-y-fabricacion-digital-en-espacios-maker.md), por ***César García Sáez**, co-fundador de [Makespace Madrid](https://makespacemadrid.org/)*.
-* [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras**, flamer ecléctico y calvo. [Hacklab Almería](https://hacklabalmeria.net/) / [La Jaquería](https://lajaqueria.org/).
+* [Pythonear sin salpicar](pythonear-sin-salpicar.md), por ***Cristóbal Contreras**, flamer ecléctico y calvo. [Hacklab Almería](https://hacklabalmeria.net/) / [La Jaquería](https://lajaqueria.org/)*.
 * [El día que creamos una AI que jugara a La Abadía del Crimen](charla_abadia.md), por ***Juan Tomás García**, Chief Envisioning Officer at [Sngular](https://www.sngular.com/) & Google Developer Expert for Cloud & Machine Learning.
 * [Taller práctico de Big Data](taller_bigdata.md), por ***Alvaro del Castillo**, Software Architect at [Paradigma Digital](https://www.paradigmadigital.com/)*.
 * [Flying high with your Kubernetes applications](flying-high-with-your-kubernetes-applications.md), por ***Jose Luis Martínez Torres**, CTO en [CAPSiDE](https://www.capside.com/)*.

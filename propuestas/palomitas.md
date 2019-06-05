@@ -1,4 +1,4 @@
-# Palomitas
+# Palomitas: torrent streaming
 
 Herramientas de software libre para trabajar con torrents en la web.
 Reproducción de video antes de completar la descarga con tecnologías de streaming y estadísticas en tiempo real a través de websocket.

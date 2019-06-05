@@ -10,7 +10,11 @@ Una breve historia de OpenStreetMap y software geoespacial.
 
 Retrocedamos al 2006 para recordar cómo se hacían mapas entonces, y veamos la evolución hasta cómo se hacen mapas ahora, con un enfoque de software libre y licencias de datos.
 
-¿Puedo copiar esos mapas que son gratis? ¿Con qué software tengo que abrir estos ficheros? ¿Es la tierra realmente plana? ¿A qué huelen las nubes de puntos? ¿Por qué hay tantos gatitos en esta charla?
+- ¿Puedo copiar esos mapas que son gratis?
+- ¿Con qué software tengo que abrir estos ficheros?
+- ¿Es la tierra realmente plana?
+- ¿A qué huelen las nubes de puntos?
+- ¿Por qué hay tantos gatitos en esta charla?
 
 ## Público objetivo
 

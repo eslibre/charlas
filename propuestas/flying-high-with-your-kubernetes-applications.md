@@ -8,7 +8,9 @@ Charla (50 minutos)
 
 ## Descripción
 
-Seguiremos a dos aventureros que en 1959 hicieron algo extraordinario. ¿Puede su gesta enseñarnos como afrontar proyectos en Kubernetes? ¿y en Cloud?
+Seguiremos a dos aventureros que en 1959 hicieron algo extraordinario. 
+
+¿Puede su gesta enseñarnos como afrontar proyectos en Kubernetes? ¿y en Cloud?
 
 ## Público objetivo
 

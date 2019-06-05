@@ -15,12 +15,11 @@ Indicar uno de estos:
 
 ¿Conoces la Abadía del Crimen?
 
-La abadía es un juego de 8-bit (para spectrum y CPC) que se convirtió en el primer juego RPG en 3D (2.5D) en 1987.
-Este juego es una maravilla desde un punto de vista tecnológico: en solo menos de 120k es capaz de almacenar el sonido, las imágenes, toda la lógica del programa y los datos.
+La Abadía es un juego de 8-bit (para Spectrum y CPC) que se convirtió en el primer juego RPG en 3D (2.5D) en 1987. Este juego es una maravilla desde un punto de vista tecnológico: en solo menos de 120 kB es capaz de almacenar el sonido, las imágenes, toda la lógica del programa y los datos.
 
 ¿Conseguiste terminar el juego sin ayuda?
 
-No conozco a nadie que se lo haya pasado sin ayuda. Es uno de los juegos mas complicados que se han desarrollado, como unas 1000x comparado con la venganza de montezuma de Atari.
+No conozco a nadie que se lo haya pasado sin ayuda. Es uno de los juegos mas complicados que se han desarrollado, como unas 1000x comparado con La Venganza de Moctezuma de Atari.
 
 En la charla contaremos como diseñamos y construimos una AI capaz de jugar solo y aprender a completar el juego.
 

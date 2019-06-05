@@ -9,7 +9,7 @@ En esta charla descubriremos qué son los espacios maker y cómo se puede utiliz
 
 ## Descripción
 
-Los espacios maker y laboratorios de fabricación digital han tenido un gran crecimiento durante la última década. Ahora mismo podemos encontrar este tipo de espacios en toda Europa y buena parte de las ciudadades españolas. 
+Los espacios maker y laboratorios de fabricación digital han tenido un gran crecimiento durante la última década. Ahora mismo podemos encontrar este tipo de espacios en toda Europa y buena parte de las ciudades españolas.
 
 Estos laboratorios han estado vinculados desde el principio a la cultura libre, con un gran énfasis en compartir códigos, pero también espacios y aprendizajes. ¿Qué herramientas, tanto hardware como software podemos encontrar en estos espacios? En esta charla lo exploraremos a través de ejemplos concretos.
 

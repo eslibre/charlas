@@ -10,9 +10,9 @@ Indicar uno de estos:
 
 ## Descripción
 
-Las herramientas de browser automation se pueden usar para una gran variedad de fines, uno de los más comunes es testing automatico de una aplicacion web, tanto del front-end como end-to-end testing.
+Las herramientas de browser automation se pueden usar para una gran variedad de fines, uno de los más comunes es testing automático de una aplicación web, tanto del front-end como end-to-end testing.
 
-Esta presentación explora las utilidades de estas herramientas, cómo usarlas y algunas alternativas, entre ellas Wendigo (principalmente)
+Esta presentación explora las utilidades de estas herramientas, cómo usarlas y algunas alternativas, entre ellas Wendigo (principalmente).
 
 ## Público objetivo
 

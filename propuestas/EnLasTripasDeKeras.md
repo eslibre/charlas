@@ -8,7 +8,9 @@ En las tripas de Keras
 
 ## Descripción
 
-Normalmente nos han enseñado que las redes neuronales convolucionales son muy buenas clasificando objetos, de hecho se podría decir que son excepcionales clasificando perros y gatos. Sin embargo, debido a la complejidad de estos modelos, su interpretabilidad es escasa y son conocidos como modelos de caja negra: sólamente se conoce la entrada y la salida pero no qué ocurre dentro. En esta charla venimos dispuestos a dinamitar esta idea. Usando diversas librerias de aprendizaje automático, vamos explicar cual es el funcionamiento de estos modelos y entender su mecanismo gracias a distintas visualizaciones.
+Normalmente nos han enseñado que las redes neuronales convolucionales son muy buenas clasificando objetos, de hecho se podría decir que son excepcionales clasificando perros y gatos. Sin embargo, debido a la complejidad de estos modelos, su interpretabilidad es escasa y son conocidos como modelos de caja negra: solamente se conoce la entrada y la salida pero no qué ocurre dentro. 
+
+En esta charla venimos dispuestos a dinamitar esta idea. Usando diversas librerías de aprendizaje automático, vamos explicar cual es el funcionamiento de estos modelos y entender su mecanismo gracias a distintas visualizaciones.
 
 ## Público objetivo
 

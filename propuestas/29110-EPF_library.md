@@ -16,13 +16,13 @@ Las organizaciones muy pequeñas dedicadas al desarrollo de software tienen un g
 
 Haciendo suyos esos fines la iniciativa **29110_EPF_library** se ha propuesto como objetivos:
 
-* formal modeled repository of 29110 processes and related information;
-* development and tailoring framework for 29110 processes adoption;
-* low adoption barriers for VSEs:
-  * the opensource library licensing frees from royalties or restrictive use of IP;
-  * using opensource tools reduces the costs of acquisition;
-* open community development;
-* acts as a body of knowledge (BoK) for 29110 related content in particular an for software and systems engineering in general.
+* Formal modeled repository of 29110 processes and related information
+* Development and tailoring framework for 29110 processes adoption
+* Low adoption barriers for VSEs:
+  * The open source library licensing frees from royalties or restrictive use of IP
+  * Using open source tools reduces the costs of acquisition
+* Open community development
+* Acts as a Body of Knowledge (BoK) for 29110 related content in particular an for software and systems engineering in general
 
 Puede consultarse una versión previa de **29110_EPF_library** en http://olea.org/tmp/Deploy-Pack-29110-EPF_library/
 

@@ -10,9 +10,9 @@ Wikitatón de patrimonio inmueble histórico de Andalucía: de Andalucía para E
 
 Taller práctico donde todos trabajaremos para ampliar el registro en los diferentes proyectos de la familia Wikipedia de los elementos registrados en el catálogo oficial andaluz con tareas como:
 
-* crear y detallar entradas en Wikidata de los diferentes ítemes;
-* localizar, contribuir, anotar y georreferenciar material fotográfico relacionado;
-* ídem con entradas en Wikipedia, con preferencia por las lenguas ibéricas e inglés.
+* Crear y detallar entradas en Wikidata de los diferentes ítemes
+* Localizar, contribuir, anotar y georreferenciar material fotográfico relacionado
+* Ídem con entradas en Wikipedia, con preferencia por las lenguas ibéricas e inglés
 
 ## Público objetivo
 

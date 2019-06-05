@@ -12,7 +12,7 @@ https://andaluh.es
 
 Tomando como referencia la propuesta ortográfica para el [Andaluz EPA](https://andaluh.es/epa), desde AndaluGeeks estamos preparando toda una serie de herramientas para conseguir la ubicuidad del Andaluz escrito en todo el espacio digital.
 
-Asómate a nuestra charla y conoce nuestro [transcriptor castellano - andaluz](https://andaluh.es/transcriptor) y su [app para Android](https://play.google.com/store/apps/details?id=es.andaluh.transcriptor), plugin de Chrome, bot de Telegram y Slack, escritorio GNU/Linux en Andaluz, subtítulos para películas y series, y [otros proyectos](https://andaluh.es/proyetto/)
+Asómate a nuestra charla y conoce nuestro [transcriptor castellano - andaluz](https://andaluh.es/transcriptor) y su [app para Android](https://play.google.com/store/apps/details?id=es.andaluh.transcriptor), plugin de Chrome, bot de Telegram y Slack, escritorio GNU/Linux en Andaluz, subtítulos para películas y series, y [otros proyectos](https://andaluh.es/proyetto/).
 
 https://andaluh.es/transcriptor
 

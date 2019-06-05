@@ -8,16 +8,13 @@ Una aproximación a la documentación contínua
 
 ## Descripción
 
-Doc as code se refiere a una filosofía donde usas las mismas herramientas 
-para la documentación que para el código:
+Doc-As-Code se refiere a una filosofía donde usas las mismas herramientas para la documentación que para el código:
 
-- texto plano con semántica, editable hasta con el editor más simple
-- control de versiones, revisión y merges
-- test (sí, la documentación debería ser testeada también)
+- Texto plano con semántica, editable hasta con el editor más simple
+- Control de versiones, revisión y merges
+- Test (sí, la documentación debería ser testeada también)
 
-En esta charla veremos ejemplos prácticos de diferentes herramientas que nos 
-permitirán alinear nuestro desarrollo con la documentación como son asciidoctor, 
-revealjs  o antora y cómo usarlos dentro del proceso de entrega continua de nuestro producto
+En esta charla veremos ejemplos prácticos de diferentes herramientas que nos permitirán alinear nuestro desarrollo con la documentación como son Asciidoctor, reveal.js o Antora y cómo usarlos dentro del proceso de entrega continua de nuestro producto.
 
 ## Público objetivo
 

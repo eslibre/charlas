@@ -9,21 +9,19 @@ OpenData (cámaras de tráfico de Madrid, Barcelona y Granada así como préstam
 
 ## Descripción
 
-Los gobiernos, tanto a nivel estatal como a nivel local, ayuntamientos, etc están haciendo un esfuerzo por publicar 
-datos de toda índole de forma abierta para incentivar la creación de investigaciones y aplicaciones que los usen.
+Los gobiernos, tanto a nivel estatal como a nivel local, ayuntamientos, etc están haciendo un esfuerzo por publicar datos de toda índole de forma abierta para incentivar la creación de investigaciones y aplicaciones que los usen.
 
-En esta charla voy a presentar 3 proyectos OpenSource que se encuentran desplegados en real donde, sin gastar dinero, explotamos
-estos datos y cómo, a partir de las necesidades de estos proyectos se han creado a su vez otros proyectos OpenSource
+En esta charla voy a presentar 3 proyectos OpenSource que se encuentran desplegados en real donde, sin gastar dinero, explotamos estos datos y cómo, a partir de las necesidades de estos proyectos se han creado a su vez otros proyectos OpenSource
 
 En concreto voy a enseñar:
 
-- Aplicación distribuida con mensajería Kafka para el tratamiento de imágenes de la M30 
+- Aplicación distribuida con mensajería Kafka para el tratamiento de imágenes de la M30
 
-- Bot telegram para mostrar las cámaras de tráfico de las ciudades de Madrid, Barcelona y Granada
+- Bot de Telegram para mostrar las cámaras de tráfico de las ciudades de Madrid, Barcelona y Granada
 
 - Publicación diaria en un canal de Telegram de los próximos eventos culturales de las bibliotecas de Madrid
 
-- Gif generator, un proyecto OpenSource surgido por la necesidad común de varios proyectos
+- Gif Generator, un proyecto OpenSource surgido por la necesidad común de varios proyectos
 
 ## Público objetivo
 

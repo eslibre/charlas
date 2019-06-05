@@ -8,7 +8,9 @@ Introducción a la API que utiliza Telegram para la creación de bots y programa
 
 ## Descripción
 
-Se explicará donde encontrar toda la información acerca de la API de Telegram para el desarrollo de bots, y a su vez también se verá como y donde podemos crear nuestros propios bots para la aplicación. En esta charla se desarrollarán líneas de código en PHP para que el bot pueda responder algunos comandos o mensajes que envía el usuario en un chat privado y/o grupal.
+Se explicará donde encontrar toda la información acerca de la API de Telegram para el desarrollo de bots, y a su vez también se verá como y donde podemos crear nuestros propios bots para la aplicación.
+
+En esta charla se desarrollarán líneas de código en PHP para que el bot pueda responder algunos comandos o mensajes que envía el usuario en un chat privado y/o grupal.
 
 ## Público objetivo
 

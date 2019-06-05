@@ -11,17 +11,13 @@ Indicar uno de estos:
 
 ## Descripción
 
-No es una charla más sobre teoría de microservicios, es una reflexión real de como estamos migrando una plataforma monolítica en Django hacia un
-enfoque de servicios basados en Django. Veremos como con esta arquitectura se pueden afrontar problemas reales de las Startups y como nos permite prepararnos
-para escalar nuestro negocio.
-Hablaremos de conceptos como la dockerización, el despliegue de la aplicación, la gestión del código entre desarrolladores, entornos de tests, así como 
-la autenticación, comunicación entre servicios, etc. Todo esto recogido desde nuestra experiencia, con lecciones aprendidas, con fallos y feedback de otras
-partes de la empresa. 
-Uno de los principales handicaps de este enfoque es como hacerlo a la misma vez que el negocio continua evolucionando y se tiene que dar soporte
-a los usuarios actuales.
-La base tecnológica es el software libre, ya que nuestro framework principal es Django, y hacemos uso de otras plataformas de software libre
-como Lightbus o SocketShark para la comunicación entre servicios. Ademas, en nuestro repo de github puedes encontrar diversos paquetes que hemos ido
-liberando y que pueden ser reutilizados a traves de pypi (la mayor parte de ellos son apps para Django).
+No es una charla más sobre teoría de microservicios, es una reflexión real de como estamos migrando una plataforma monolítica en Django hacia un enfoque de servicios basados en Django.
+
+Veremos como con esta arquitectura se pueden afrontar problemas reales de las startups y como nos permite prepararnos para escalar nuestro negocio. Hablaremos de conceptos como la dockerización, el despliegue de la aplicación, la gestión del código entre desarrolladores, entornos de tests, así como la autenticación, comunicación entre servicios, etc.
+
+Todo esto recogido desde nuestra experiencia, con lecciones aprendidas, con fallos y feedback de otras partes de la empresa. Uno de los principales handicaps de este enfoque es como hacerlo a la misma vez que el negocio continua evolucionando y se tiene que dar soporte a los usuarios actuales.
+
+La base tecnológica es el software libre, ya que nuestro framework principal es Django, y hacemos uso de otras plataformas de software libre como Lightbus o SocketShark para la comunicación entre servicios. Ademas, en nuestro repositorio de GitHub puedes encontrar diversos paquetes que hemos ido liberando y que pueden ser reutilizados a través de PyPI (la mayor parte de ellos son apps para Django).
 
 ## Público objetivo
 Desarrolladores que se interesen por la arquitectura de las aplicaciones.

@@ -12,15 +12,9 @@ Indicar uno de estos:
 
 ## Descripción
 
-Haskell es el lenguaje que nació hace unos 30 años para servir
-de modelo y de lengua franca para todos los lenguajes funcionales,
-y que sigue creciendo y mejorando su ecosistema.
+Haskell es el lenguaje que nació hace unos 30 años para servir de modelo y de lengua franca para todos los lenguajes funcionales, y que sigue creciendo y mejorando su ecosistema.
 
-Haskell tiene fama de elegante, conciso, expresivo, divertido
-... y difícil de aprender. Gracias a CodeWars, plataforma web de
-katas de programación mantenida en gran medida por los propios
-usuarios, resolveremos algunas katas juntos, y tendrás una opinión
-de primera mano.  ;-)
+Haskell tiene fama de elegante, conciso, expresivo, divertido... y difícil de aprender. Gracias a CodeWars, plataforma web de katas de programación mantenida en gran medida por los propios usuarios, resolveremos algunas katas juntos, y tendrás una opinión de primera mano.
 
 ## Público objetivo
 

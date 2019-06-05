@@ -12,18 +12,11 @@ de los datos.
 
 ## Descripción
 
-Partiendo de los conceptos de datos, información, conocimiento y sabiduría
-(pirámide DIKW), iremos contextualizando el procesamiento de datos en general
-y veremos lo que hace que Big Data sea diferentes. Pasaremos por las arquitecturas
-Lambda y Kappa a nivel general y, una vez asentados los conceptos clave,
-comenzaremos con la parte prática.
+Partiendo de los conceptos de datos, información, conocimiento y sabiduría (pirámide DIKW), iremos contextualizando el procesamiento de datos en general y veremos lo que hace que Big Data sea diferentes. Pasaremos por las arquitecturas Lambda y Kappa a nivel general y, una vez asentados los conceptos clave, comenzaremos con la parte práctica.
 
-En ella se mostrará como implementar con Apache Spark el procesamiento de los
-datos de GitHub Archive. Se mostrará como hacer la persistencia de los datos
-con un sistema distribuido como ElasticSearch y, se realizará alguna visualización.
+En ella se mostrará como implementar con Apache Spark el procesamiento de los datos de GitHub Archive. Se mostrará como hacer la persistencia de los datos con un sistema distribuido como ElasticSearch y, se realizará alguna visualización.
 
-En función del tiempo, se dará alguna pincelada de las partes de Streaming, Graphs and
-Machine Learning  que ofrece Spark.
+En función del tiempo, se dará alguna pincelada de las partes de Streaming, Graphs and Machine Learning que ofrece Spark.
 
 ## Público objetivo
 
